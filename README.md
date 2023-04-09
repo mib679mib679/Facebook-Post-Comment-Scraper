@@ -11,6 +11,6 @@ The process can be divided to these parts below:
 
 2. Use this Python Script to read the excel file and extract the IDs of each internet celebrity.
 
-3. Keep running the Python Script to automatically log-in to Facebook in an additional Chrome browser, extract the URL for each internet celebrity's most recent post and corresponding comments, you can specify how many times to scroll down to load more posts as many as possible. This process requires you to open the additional Chrome browser until the cell finish the operation.
+3. Keep running the Python Script to automatically open an additional Chrome browser and log-in to Facebook, extract the URLs for each internet celebrity's most recent post and corresponding comments, you can specify how many times to scroll down to load more posts as many as possible. This process requires you to open the additional Chrome browser until the cell finishs the operation.
 
-4. After getting all the URLs of each post, run the final cell to extract all the post content and comment into a CSV file. This process do not require to open the additional Chrome browser, you can minimise the browser and keep doing your work. 
+4. After getting all the URLs of each post, run the final cell to extract all the post contents and comments into a csv file. This process do not require to open the additional Chrome browser, you can minimise the browser and keep doing your work. 
