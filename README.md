@@ -4,8 +4,8 @@ A Facebook Post and comment scraper without using API.
 #### Keyword: Web Crawler, Data Engineering, Selenium, BeautifulSoup, Web automation, HTML and CSS syntax.  
 
 #### File description:
-Bardeen教學.pdf: An instruction of using Bardeen to extract ID.   
-Python腳本操作教學.pdf: An instruction of how to use Python script to extract the contents.   
+Bardeen教學.pdf: An instruction of using Bardeen to extract ID, in Chinese. 
+Python腳本操作教學.pdf: An instruction of how to use Python script to extract the contents, in Chinese.   
 scraper_for_multipleID.ipynb: This file contains the code that can extract all the post contents and comments for a list of IDs.   
 scraper_for_oneID.ipynb: This file contains the code that can extract all the post contents and comments for single ID.   
 保養品ID.xlsx: An excel file that was scraped by Bardeen for test purpose.   
