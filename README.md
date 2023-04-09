@@ -1,7 +1,7 @@
 # Facebook-Post-Comment-Scraper
 A Facebook Post and comment scraper without using API.
 
-#### Keyword: Web Crawler, Data Engineering, Selenium, BeautifulSoup, Web automation, HTML and CSS syntax.  
+#### Keyword: Web Crawler, Data Engineering, Selenium, BeautifulSoup, Web Automation, HTML and CSS syntax.  
 
 #### File description:
 Bardeen教學.pdf - An instruction of using Bardeen to extract ID, in Chinese.    
