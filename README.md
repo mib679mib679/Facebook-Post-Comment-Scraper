@@ -15,7 +15,7 @@ This is a Facebook post and comment scraper I made for a friend who runs an e-co
 The project has two versions: one for single ID and another loop version for multiple IDs. This method does not require the use of any APIs.
 
 
-The process can be divided to these parts below:
+The process can be divided to 4 steps below:
 1. Use Chrome extension - Bardeen to scrape some Facebook search result, there is a video on Youtube for this (https://www.youtube.com/watch?v=vVSPVC1Jv38&t=117s), you need to get the name and link to fanpage for each internet celebrity to proceed. The output will be an excel file.
 
 2. Use this Python Script to read the excel file and extract the IDs of each internet celebrity.
